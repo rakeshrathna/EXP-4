@@ -54,7 +54,7 @@ Half wave Rectifier
 <img width="511" height="210" alt="image" src="https://github.com/user-attachments/assets/20c6d2f2-87dd-4476-90be-74c14fca2b39" />
 <img width="514" height="226" alt="image" src="https://github.com/user-attachments/assets/650b6eb9-66b5-410b-b5fb-b7ac74a98368" />
 
-# TABULAR COLUMN
+# TABULAR COLUMN:
 
 Full wave Rectifier
 
